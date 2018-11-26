@@ -1,0 +1,128 @@
+@r:30rem;
+.red{
+    color: red;
+}
+*{
+    margin:0;
+    padding:0;
+}
+.nav{
+    width:100%;
+    height:110/@r;
+    background-color: rgb(17,17,17);
+    z-index: 2;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    i{
+        color: white;
+        font-size: 25px;
+        line-height:110/@r;
+    }
+    .left,.right{
+        width:44/@r;
+        height: 110/@r;
+        position: absolute;
+        top:0;
+    }
+    .left{
+        left:32/@r;
+    }
+    .right{
+        right:32/@r;
+    }
+    h2{
+        height:100%;
+        color: white;
+        line-height: 110/@r;
+        font-weight: 500;
+    }
+    
+}
+.body{
+    height: auto;
+    padding:20/@r 30/@r;
+    position: relative;
+    padding-bottom:130/@r;; 
+    ul{
+        list-style: none;
+        margin-bottom: 50/@r;
+        li{
+            border-bottom: 1px solid #ccc;
+            height: 60/@r;
+            display: flex;
+            line-height: 60/@r;
+            li{
+                float: left;
+                margin-left:30/@r;
+            }
+        }
+    }
+    .item{
+        .list{
+            height: 200/@r;
+            display: flex;
+            justify-content: space-around;
+            margin-bottom:20/@r; 
+            div{
+                width: 315/@r;
+                height: 201/@r;
+                background-image: url('../img/classify.jpg');
+                background-size: cover;
+                position: relative;
+                border-radius: 10px;
+                h3{
+                    color: white;
+                    text-align: center;
+                    font-weight: 500;
+                }
+               
+            }
+           .dongzuo{
+                background-image: url('../img/classify1.jpg');
+            }
+            .katong{
+                background-image: url('../img/classify2.jpg');
+            }
+            .jd{
+                background-image: url('../img/classify3.jpg');
+            }
+            .guzhuang{
+                background-image: url('../img/classify4.jpg');
+            }
+            .keji{
+                background-image: url('../img/classify5.jpg');
+            }
+            .love{
+                background-image: url('../img/classify6.jpg');
+            }
+            .lizhi{
+                background-image: url('../img/classify7.jpg');
+            }
+        }
+    }
+}
+.footer{
+    width: 100%;
+    height: 100/@r;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    justify-content: space-around;
+    text-align: center;
+    background-color: white;
+    z-index:2;
+    div{
+        width:100/@r;
+        height:80/@r;
+        i{
+            height:auto;
+            font-size: 30px;
+        }
+        span{
+            display: block;
+            width:100%;
+            text-align: center;
+        }
+    }
+}
