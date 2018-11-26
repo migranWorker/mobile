@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.red {
+  color: red;
+}
+.nav {
+  width: 100%;
+  height: 3.66666667rem;
+  background-color: #111111;
+  display: flex;
+  justify-content: center;
+}
+.nav h2 {
+  height: 100%;
+  color: white;
+  line-height: 3.66666667rem;
+  font-weight: 500;
+}
+.nav i {
+  color: white;
+  font-size: 25px;
+  line-height: 3.66666667rem;
+}
+.nav .left,
+.nav .right {
+  width: 1.46666667rem;
+  height: 3.66666667rem;
+  position: absolute;
+  top: 0;
+}
+.nav .left {
+  left: 1.06666667rem;
+}
+.nav .right {
+  right: 1.06666667rem;
+}
+.body {
+  height: 37.33333333rem;
+  background-image: url('../img/mine1.jpg');
+  background-size: cover;
+}
+.body .b-header {
+  height: 13.33333333rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.body .b-header .logo {
+  width: 5.5rem;
+  height: 5.33333333rem;
+  border-radius: 50%;
+  border: 1px solid white;
+  background-image: url('../img/mine2.jpg');
+  background-size: cover;
+}
+.body .b-header h3 {
+  color: white;
+  font-weight: 500;
+}
+.body .b-header i {
+  position: absolute;
+  color: white;
+  font-size: 30px;
+  right: 1rem;
+}
+.body .item {
+  height: auto;
+  padding-top: 1.66666667rem;
+}
+.body .item .list {
+  height: 5.16666667rem;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 1.66666667rem;
+}
+.body .item .list div {
+  width: 5.16666667rem;
+  height: 5.16666667rem;
+  background-color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.body .item .list div i {
+  font-size: 40px;
+  color: black;
+  font-weight: 600;
+}
+.body .item .list div span {
+  font-size: 20px;
+}
+.footer {
+  width: 100%;
+  height: 3.33333333rem;
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  justify-content: space-around;
+  text-align: center;
+  background-color: white;
+  z-index: 2;
+}
+.footer div {
+  width: 3.33333333rem;
+  height: 2.66666667rem;
+}
+.footer div i {
+  height: auto;
+  font-size: 30px;
+}
+.footer div span {
+  display: block;
+  width: 100%;
+  text-align: center;
+}

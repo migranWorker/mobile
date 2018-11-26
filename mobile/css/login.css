@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  width: 100%;
+  height: 3.66666667rem;
+  background-color: #111111;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.nav h2 {
+  height: 100%;
+  color: white;
+  line-height: 3.66666667rem;
+  font-weight: 500;
+}
+.nav .left {
+  width: 1.46666667rem;
+  height: 3.66666667rem;
+  position: absolute;
+  top: 0;
+  left: 1.06666667rem;
+}
+.nav .left i {
+  color: white;
+  font-size: 25px;
+  line-height: 3.66666667rem;
+}
+input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  outline: none;
+  width: 13.33333333rem;
+}
+.body {
+  height: auto;
+}
+.body .b-header {
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.body .b-header div {
+  width: 6.66666667rem;
+  height: 6.66666667rem;
+  border-radius: 50%;
+  border: 2px solid #ccc;
+  box-shadow: 0 0 5px #aaa;
+  background-image: url('../img/login1.jpg');
+  background-size: cover;
+}
+.body .form {
+  padding-top: 3.33333333rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.body .form label:nth-of-type(1) {
+  margin-bottom: 1.66666667rem;
+}
+.body .form label:nth-of-type(2) {
+  margin-bottom: 0.83333333rem;
+}
+.body .form i {
+  font-size: 30px;
+  color: black;
+}
+.body .form button {
+  background-color: #0091d2;
+  box-shadow: 0 0 5px #0091d2;
+  outline: none;
+  border: none;
+  width: 10rem;
+  color: white;
+  height: 1.66666667rem;
+  border-radius: 20px;
+  margin-bottom: 0.83333333rem;
+}
+.body .form a {
+  text-decoration: none;
+  color: #aaa;
+}
+.body .form .alert-tell,
+.body .form .alert-psd {
+  font-size: 14px;
+  color: red;
+  display: none;
+}

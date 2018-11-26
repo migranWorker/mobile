@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>index</title>
+    <script>
+        (function(){
+            let html = document.documentElement;
+            html.style.fontSize = html.clientWidth/25 + 'px'; 
+        })()
+    </script>
+    <link rel="stylesheet" href="../font/iconfont.css">
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <div class="index">
+        <div class="nav">
+            <div class="left">
+                <i class="icon iconfont icon-buoumaotubiao23"></i>
+            </div>
+            <div class="logo">
+                <img src="./img/logo.png" alt="">
+            </div>
+            <div class="right">
+                <i class="icon iconfont icon-sousuo"></i>
+            </div>
+        </div> 
+        <div class="body">
+            <div class="swiper">
+                <img src="./img/swiper.png" alt="">
+            </div>
+            <div class="icon">
+                <div>
+                    <i class="icon iconfont icon-yingpian"></i>
+                    <span>影片</span>
+                </div>
+                <div>
+                    <i class="icon iconfont icon-huangguan"></i>
+                    <span>榜单</span>
+                </div>
+                <div>
+                    <i class="icon iconfont icon-yingpiana"></i>
+                    <span>预告</span>
+                </div>
+                <div>
+                    <i class="icon iconfont icon-zhoubian"></i>
+                    <span>周边</span>
+                </div>
+            </div>
+            <div class="list">
+                <div class="title">
+                    <h3>新剧上线</h3>
+                    <div class="right">
+                        <i class="icon iconfont icon-more"></i>
+                    </div>
+                </div>
+                <div class="item">
+                    <div>
+                        <img src="./img/index1.jpg" alt="">
+                        <span>阴阳师</span>
+                    </div>
+                   <div>
+                        <img src="./img/index2.jpg" alt="">
+                        <span>疯狂的外星人</span>
+                    </div>
+                    <div>
+                        <img src="./img/index3.jpg" alt="">
+                        <span>捉妖记2</span>
+                    </div>
+                </div>
+                <div class="item">
+                    <div>
+                        <img src="./img/index4.jpg" alt="">
+                        <span>西游之女儿国</span>
+                    </div>
+                   <div>
+                        <img src="./img/index5.jpg" alt="">
+                        <span>我不是药神</span>
+                    </div>
+                    <div>
+                        <img src="./img/index6.jpg" alt="">
+                        <span>巨齿鲨</span>
+                    </div>
+                </div>
+                <div class="title">
+                    <h3>今日预告</h3>
+                    <div class="right">
+                        <i class="icon iconfont icon-more"></i>
+                    </div>
+                    <div class="item1">
+                        <div>
+                            <img src="./img/index7.jpg" alt="">
+                            <h4>《瞒天过海》 中文预告</h4>
+                            <span>布洛克领衔妙手夺宝<br/>18年6月8日/美国</span>
+                        </div>
+                        <div>
+                            <img src="./img/index8.jpg" alt="">
+                            <h4>《红海行动》 预告片</h4>
+                            <span>蛟龙突击队异国救援<br/>18年2月16日/中国</span>
+                        </div>
+                    </div>
+                    <div class="item1">
+                        <div>
+                            <img src="./img/index9.jpg" alt="">
+                            <h4>《头号玩家》 中文预告</h4>
+                            <span>斯皮尔伯格新作玩转VR<br/>18年3月30日/美国</span>
+                        </div>
+                        <div>
+                            <img src="./img/index10.jpg" alt="">
+                            <h4>《掠食城市》 中文预告</h4>
+                            <span>乌托邦背景下移动城市<br/>18年12月14日/美国</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+        </div>
+        <div class="footer">
+            <div class="red">
+                <i class="icon iconfont icon-weibiaoti--"></i>
+                <span>首页</span>
+            </div>
+            <div>
+                <i class="icon iconfont icon-leimupinleifenleileibie"></i>
+                <span>分类</span>
+            </div>
+            <div>
+                <i class="icon iconfont icon-tuijian"></i>
+                <span>推荐</span>
+            </div>
+            <div>
+                <i class="icon iconfont icon-member_icon"></i>
+                <span>会员</span>
+            </div>
+            <div id="mine">
+                <i class="icon iconfont icon-wode"></i>
+                <span>我的</span>
+            </div>
+        </div>
+    </div>
+    <script>
+        let mine = document.querySelector('#mine');
+        mine.addEventListener('touchstart',function(){
+            if(sessionStorage.getItem('user')){
+                alert('已经登陆！');
+            }else{
+                window.location.href="login.html";
+            }
+        })
+    </script>
+</body>
+</html>
