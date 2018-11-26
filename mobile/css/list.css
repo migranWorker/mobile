@@ -1,0 +1,100 @@
+body {
+  background-color: #ccc;
+}
+.color {
+  color: #ff5400 !important;
+}
+.red {
+  color: red;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav {
+  width: 100%;
+  height: 3.66666667rem;
+  background-color: #111111;
+  z-index: 2;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+.nav i {
+  color: white;
+  font-size: 25px;
+  line-height: 3.66666667rem;
+}
+.nav .left,
+.nav .right {
+  width: 1.46666667rem;
+  height: 3.66666667rem;
+  position: absolute;
+  top: 0;
+}
+.nav .left {
+  left: 1.06666667rem;
+}
+.nav .right {
+  right: 1.06666667rem;
+}
+.nav h2 {
+  height: 100%;
+  color: white;
+  line-height: 3.66666667rem;
+  font-weight: 500;
+}
+.top {
+  height: 1.66666667rem;
+  background-color: #111111;
+}
+.body {
+  height: 3.33333333rem;
+  position: relative;
+  top: -1.66666667rem;
+}
+.body .list {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.body .list .item {
+  width: 21.66666667rem;
+  height: 8rem;
+  background-color: white;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  box-shadow: 0 0 10px #bbb;
+  display: flex;
+  align-items: center;
+}
+.body .list .item .img {
+  width: 5rem;
+  height: 6.66666667rem;
+  margin-left: 0.5rem;
+}
+.body .list .item .img img {
+  width: 5rem;
+  height: 6.66666667rem;
+}
+.body .list .item .right {
+  width: 14.53333333rem;
+  height: 6.66666667rem;
+  margin-left: 0.5rem;
+  position: relative;
+}
+.body .list .item .right span {
+  font-size: 14px;
+  color: #bbb;
+}
+.body .list .item .right i {
+  color: #ccc;
+}
+.body .list .item .right #more {
+  position: absolute;
+  color: black;
+  font-size: 30px;
+  right: 0;
+  bottom: 0;
+}
