@@ -5,6 +5,10 @@
 .red {
   color: red;
 }
+body {
+  background-image: url('../img/mine1.jpg');
+  background-repeat: no-repeat;
+}
 .nav {
   width: 100%;
   height: 3.66666667rem;
@@ -38,8 +42,6 @@
 }
 .body {
   height: 37.33333333rem;
-  background-image: url('../img/mine1.jpg');
-  background-size: cover;
 }
 .body .b-header {
   height: 13.33333333rem;

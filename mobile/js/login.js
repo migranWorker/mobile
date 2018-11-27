@@ -33,15 +33,11 @@ window.onload=function(){
         })
     }
     back.addEventListener('touchstart',function(){
-        if(sessionStorage.getItem('user')){
-            window.location.href='mine.html';
-        }else{
-            alert('请先登陆！');
-        }
+            window.location.href='index.html';
     })
     btn.addEventListener('touchstart',function(){
         let val = tell.value;
         sessionStorage.setItem('user',val);
-        window.history.back(-1);
+        window.location.href='mine.html';
     })
 }
