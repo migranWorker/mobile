@@ -1,0 +1,165 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #ccc;
+}
+.red {
+  color: red;
+}
+.green {
+  color: lightgreen;
+}
+.nav {
+  width: 100%;
+  height: 3.66666667rem;
+  background-color: #111111;
+  display: flex;
+  justify-content: center;
+}
+.nav h2 {
+  height: 100%;
+  color: white;
+  line-height: 3.66666667rem;
+  font-weight: 500;
+}
+.nav i {
+  color: white;
+  font-size: 25px;
+  line-height: 3.66666667rem;
+}
+.nav .left {
+  width: 1.46666667rem;
+  height: 3.66666667rem;
+  position: absolute;
+  top: 0;
+  left: 1.06666667rem;
+}
+.logo {
+  height: 8.7rem;
+  background-image: url('../img/order1.jpg');
+  background-size: cover;
+}
+.list {
+  padding: 1rem 1rem 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list .item {
+  width: 21.56666667rem;
+  height: 4rem;
+  background-color: white;
+  border-radius: 10px;
+  margin-bottom: 0.66666667rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  box-sizing: border-box;
+  padding-right: 0.5rem;
+}
+.list .item .time {
+  display: inline-block;
+  width: 5.46666667rem;
+  height: 100%;
+  background-color: #dd5400;
+  border-radius: 10px;
+  padding: 0.56666667rem;
+  box-sizing: border-box;
+  color: white;
+}
+.list .item p span {
+  color: #888;
+}
+.list .item .money {
+  font-size: 20px;
+  color: #dd5400;
+}
+.b-alert {
+  width: 100%;
+  height: 45rem;
+  background-color: rgba(204, 204, 204, 0.3);
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+}
+.b-alert .alert {
+  width: 20rem;
+  height: 36.66666667rem;
+  background-color: white;
+  z-index: 20;
+  box-sizing: border-box;
+  padding: 0.66666667rem;
+}
+.b-alert .alert .a-title {
+  position: relative;
+}
+.b-alert .alert .a-title .t-back {
+  position: absolute;
+  right: 0;
+}
+.b-alert .alert .a-title h3,
+.b-alert .alert .a-title p {
+  margin-bottom: 0.33333333rem;
+}
+.b-alert .alert .a-title i {
+  font-size: 20px;
+}
+.b-alert .alert .a-title p span {
+  margin-left: 0.83333333rem;
+}
+.b-alert .alert .a-body {
+  padding: 0.66666667rem;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  border-bottom: 1px solid #ccc;
+}
+.b-alert .alert .a-body i {
+  font-size: 20px;
+}
+.b-alert .alert .a-body .screen {
+  width: 10.4rem;
+  height: 2.06666667rem;
+  border-radius: 5px;
+  background-color: #ccc;
+  text-align: center;
+  line-height: 2.06666667rem;
+  margin-bottom: 0.33333333rem;
+}
+.b-alert .alert .a-body .item1 {
+  margin-bottom: 0.33333333rem;
+}
+.b-alert .alert .a-body .item1 span {
+  position: absolute;
+  left: 0;
+}
+.b-alert .alert .a-body .bottom {
+  margin-bottom: 1.66666667rem;
+}
+.b-alert .alert .footer p {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 1rem;
+}
+.b-alert .alert .footer p .delete {
+  display: block;
+  width: 1.33333333rem;
+}
+.b-alert .alert #btn {
+  width: 100%;
+  height: 2rem;
+  background-color: #dd5400;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
