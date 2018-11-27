@@ -2,13 +2,17 @@ window.onload=function(){
     let item = document.querySelectorAll('.item');
     let time = document.querySelector('#time');
     let alert1 = document.querySelector('#b-alert');
-    let back = document.querySelector('#t-back');
+    let back11 = document.querySelector('#t-back');
+    let back1 = document.querySelector('#back');
     let item1 = document.getElementsByClassName('item1');
     let footer = document.getElementById('footer');
     let btn = document.getElementById('btn');
     let del = footer.getElementsByClassName('delete');
     let money = document.querySelectorAll('.money');
- 
+    
+    back1.addEventListener('touchend',function(){
+        window.history.back(-1);
+    })
     //弹出层
     for(let i= 0;i<item.length;i++){
         item[i].addEventListener('click',function(e){
@@ -18,7 +22,7 @@ window.onload=function(){
             alert1.style.visibility = 'visible';
         })
     }
-    back.addEventListener('touchstart',function(){
+    back11.addEventListener('touchstart',function(){
         alert1.style.visibility = 'hidden';
     })
     btn.addEventListener('click',function(){
