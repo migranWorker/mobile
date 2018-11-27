@@ -13,6 +13,7 @@
     </script>
     <link rel="stylesheet" href="../font/iconfont.css">
     <link rel="stylesheet" href="./css/index.css">
+    <script src='./js/index.js'></script>
 </head>
 <body>
     <div class="index">
@@ -117,7 +118,7 @@
             </div>
             
         </div>
-        <div class="footer">
+        <div class="footer" id="footer">
             <div class="red">
                 <i class="icon iconfont icon-weibiaoti--"></i>
                 <span>首页</span>
@@ -141,14 +142,6 @@
         </div>
     </div>
     <script>
-        let mine = document.querySelector('#mine');
-        mine.addEventListener('touchstart',function(){
-            if(sessionStorage.getItem('user')){
-                alert('已经登陆！');
-            }else{
-                window.location.href="login.html";
-            }
-        })
     </script>
 </body>
 </html>

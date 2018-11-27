@@ -1,7 +1,8 @@
 window.onload=function(){
     let input = document.querySelectorAll('input');
     let span = document.querySelectorAll('span');      
-    let btn = document.querySelector('button');
+    let btn = document.querySelector('#login');
+    let tell = document.querySelector('#tell');
     let back = document.querySelector('.left');
     for(let i= 0;i<input.length;i++){
         input[i].addEventListener('focus',function(){
@@ -32,9 +33,15 @@ window.onload=function(){
         })
     }
     back.addEventListener('touchstart',function(){
-        window.location.href='mine.html';
+        if(sessionStorage.getItem('user')){
+            window.location.href='mine.html';
+        }else{
+            alert('请先登陆！');
+        }
     })
     btn.addEventListener('touchstart',function(){
-      
+        let val = tell.value;
+        sessionStorage.setItem('user',val);
+        window.history.back(-1);
     })
 }
