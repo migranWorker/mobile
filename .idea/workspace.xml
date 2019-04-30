@@ -2,70 +2,89 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec6995d5-f684-4f61-a039-22d1d17dfee3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/js/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/js/recommend.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/js/vip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/recommend.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mobile/vip.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/css/admin.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/css/amazeui.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/css/amazeui.flat.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/css/amazeui.flat.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/css/amazeui.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/css/app.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/app-icon72x72@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/admin-chrome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/admin-firefox.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/admin-ie.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/admin-opera.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/admin-safari.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/adminPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/blogPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/landing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/landingPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/loginPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/examples/sidebarPage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/favicon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/i/startup-640x1096.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/amazeui.ie8polyfill.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/amazeui.ie8polyfill.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/amazeui.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/amazeui.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/amazeui.widgets.helper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/amazeui.widgets.helper.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/app.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/AmazeUI/assets/js/handlebars.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/demo.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/demo_fontclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/demo_fontclass.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/demo_symbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/demo_symbol.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/demo_unicode.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/demo_unicode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/iconfont.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/iconfont.eot" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/iconfont.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/iconfont.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/iconfont.ttf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/font/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/font/iconfont.woff" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/classify.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/classify.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/css/classify.css" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/css/classify.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/css/index.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/details.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/js/classify.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/js/classify.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/js/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/js/mine.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/js/mine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/js/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/js/order.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/mine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/order.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mobile/registe.html" beforeDir="false" afterPath="$PROJECT_DIR$/mobile/registe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php/login.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/classify.html" beforeDir="false" afterPath="$PROJECT_DIR$/classify.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/classify.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/classify.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/classify.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/classify.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/details.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/details.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/details.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/details.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/index.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/index.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/list.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/list.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/list.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/list.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/login.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/login.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/mine.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mine.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/mine.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/mine.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/order.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/order.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/order.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/order.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/registe.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/registe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/css/registe.less" beforeDir="false" afterPath="$PROJECT_DIR$/css/registe.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/details.html" beforeDir="false" afterPath="$PROJECT_DIR$/details.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/demo.css" beforeDir="false" afterPath="$PROJECT_DIR$/font/demo.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/demo_fontclass.html" beforeDir="false" afterPath="$PROJECT_DIR$/font/demo_fontclass.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/demo_symbol.html" beforeDir="false" afterPath="$PROJECT_DIR$/font/demo_symbol.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/demo_unicode.html" beforeDir="false" afterPath="$PROJECT_DIR$/font/demo_unicode.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/iconfont.css" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/iconfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/iconfont.js" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/iconfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/iconfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/font/iconfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/font/iconfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/classify7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/classify7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/details7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/details7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/index9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/index9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/list1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/list1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/list2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/list2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/list3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/list3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/login1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/login1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/mine1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mine1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/mine2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mine2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/order1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/order1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/img/swiper.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/swiper.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/classify.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/classify.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/details.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/details.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/list.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/list.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/mine.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/mine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/recommend.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/recommend.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/registe.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/registe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/js/vip.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/vip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/mine.html" beforeDir="false" afterPath="$PROJECT_DIR$/mine.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/order.html" beforeDir="false" afterPath="$PROJECT_DIR$/order.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/recommend.html" beforeDir="false" afterPath="$PROJECT_DIR$/recommend.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/registe.html" beforeDir="false" afterPath="$PROJECT_DIR$/registe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mobile/vip.html" beforeDir="false" afterPath="$PROJECT_DIR$/vip.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,45 +98,36 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/init.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/list.js">
+        <entry file="file://$PROJECT_DIR$/js/list.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/login.js">
+        <entry file="file://$PROJECT_DIR$/js/login.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-153" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/registe.js">
+        <entry file="file://$PROJECT_DIR$/js/registe.js">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/vip.js">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/js/vip.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="70" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="70" />
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/vip.html">
+        <entry file="file://$PROJECT_DIR$/vip.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="336">
-              <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="27" selection-end-column="10" />
+              <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="27" selection-end-column="10" />
               <folding>
                 <element signature="e#664#670#0" expanded="true" />
               </folding>
@@ -126,25 +136,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/css/classify.css">
+        <entry file="file://$PROJECT_DIR$/css/classify.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
-              <caret line="116" column="15" lean-forward="true" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mobile/recommend.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+              <caret line="116" column="15" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/mine.js">
+        <entry file="file://$PROJECT_DIR$/recommend.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="24" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/mine.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
               <caret line="3" column="70" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
@@ -153,10 +172,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mobile/js/order.js">
+        <entry file="file://$PROJECT_DIR$/js/order.js">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+              <caret column="25" selection-start-column="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -224,11 +243,6 @@
               <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
               <item name="mobile" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mobile" type="462c0819:PsiDirectoryNode" />
-              <item name="mobile" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -243,6 +257,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/mobile" />
     </key>
   </component>
@@ -268,21 +283,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1556600537438</updated>
-      <workItem from="1556600538741" duration="2938000" />
+      <workItem from="1556600538741" duration="3551000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2938000" />
+    <option name="totallyTimeSpent" value="3551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="805" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="0" weight="0.32959327" />
+      <window_info anchor="bottom" id="Terminal" order="0" visible="true" weight="0.32959327" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info anchor="bottom" id="Docker" order="3" show_stripe_button="false" />
@@ -302,182 +316,182 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mobile/css/registe.less">
+    <entry file="file://$PROJECT_DIR$/css/registe.less">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/details.less">
+    <entry file="file://$PROJECT_DIR$/css/details.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-848">
           <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/classify.less">
+    <entry file="file://$PROJECT_DIR$/css/classify.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-462">
           <caret column="8" selection-start-column="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/login.less">
+    <entry file="file://$PROJECT_DIR$/css/login.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-451" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/details.html">
+    <entry file="file://$PROJECT_DIR$/details.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/login.html">
+    <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/registe.html">
+    <entry file="file://$PROJECT_DIR$/registe.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-136">
           <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/index.less">
+    <entry file="file://$PROJECT_DIR$/css/index.less">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/mine.html">
+    <entry file="file://$PROJECT_DIR$/mine.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-901">
           <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/order.html">
+    <entry file="file://$PROJECT_DIR$/order.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1129">
           <caret line="204" column="10" selection-start-line="204" selection-start-column="10" selection-end-line="204" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/list.html">
+    <entry file="file://$PROJECT_DIR$/list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="80" column="33" selection-start-line="80" selection-start-column="33" selection-end-line="80" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/index.css">
+    <entry file="file://$PROJECT_DIR$/css/index.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/classify.html">
+    <entry file="file://$PROJECT_DIR$/classify.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="53" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="24" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/recommend.js">
+    <entry file="file://$PROJECT_DIR$/js/recommend.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="70" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/classify.js">
+    <entry file="file://$PROJECT_DIR$/js/classify.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/details.js">
+    <entry file="file://$PROJECT_DIR$/js/details.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/index.js">
+    <entry file="file://$PROJECT_DIR$/js/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/init.js">
+    <entry file="file://$PROJECT_DIR$/js/init.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/list.js">
+    <entry file="file://$PROJECT_DIR$/js/list.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/login.js">
+    <entry file="file://$PROJECT_DIR$/js/login.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-153" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/mine.js">
+    <entry file="file://$PROJECT_DIR$/js/mine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="70" selection-start-line="3" selection-start-column="70" selection-end-line="3" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/order.js">
+    <entry file="file://$PROJECT_DIR$/js/order.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="25" lean-forward="true" selection-start-column="25" selection-end-column="25" />
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/registe.js">
+    <entry file="file://$PROJECT_DIR$/js/registe.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/js/vip.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="70" selection-start-line="3" selection-start-column="62" selection-end-line="3" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/css/classify.css">
+    <entry file="file://$PROJECT_DIR$/css/classify.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="116" column="15" lean-forward="true" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
+          <caret line="116" column="15" selection-start-line="116" selection-start-column="15" selection-end-line="116" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/vip.html">
+    <entry file="file://$PROJECT_DIR$/vip.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="24" column="3" lean-forward="true" selection-start-line="24" selection-start-column="3" selection-end-line="27" selection-end-column="10" />
+          <caret line="24" column="3" selection-start-line="24" selection-start-column="3" selection-end-line="27" selection-end-column="10" />
           <folding>
             <element signature="e#664#670#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mobile/recommend.html">
+    <entry file="file://$PROJECT_DIR$/recommend.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="24" lean-forward="true" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="277">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="24" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
