@@ -4,7 +4,8 @@ window.onload = function(){
     let arr = ['index.html','classify.html','recommend.html','vip.html','mine.html'];
     for(let i=0;i<div.length;i++){
         div[i].addEventListener('touchend',function(){
-                window.location.href = arr[i];
+            window.location.href = arr[i];
         })
     }
 }
+

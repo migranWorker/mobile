@@ -25,7 +25,7 @@ window.onload=function(){
     back11.addEventListener('touchstart',function(){
         alert1.style.visibility = 'hidden';
     })
-    btn.addEventListener('click',function(){
+    btn.addEventListener('touchend',function(){
         if(sessionStorage.getItem('user')){
             let p = footer.getElementsByTagName('p');
             let memoyAll = 0;
@@ -34,7 +34,7 @@ window.onload=function(){
                 memoyAll += parseFloat(span[3].innerText.substring(1));
             }
     
-            if(p.length <1){
+            if(p.length < 1){
                 alert('请先选择位置！');
             }
             else{
@@ -51,7 +51,7 @@ window.onload=function(){
         let set = item1[j].querySelectorAll('i');
         let span = item1[j].querySelector('span');
         for(let i=0;i<set.length;i++){
-            set[i].addEventListener('touchstart',function(){
+            set[i].addEventListener('touchend',function(){
                 if(this.classList.contains('green') || this.classList.contains('red')){
                     alert('已经被选啦！');
                 }else{
@@ -67,7 +67,7 @@ window.onload=function(){
                     footer.innerHTML = s + footer.innerHTML;
                     for(let i=0;i<del.length;i++){
                         let p = footer.getElementsByClassName('message');
-                        del[i].addEventListener('touchstart',function(){
+                        del[i].addEventListener('touchend',function(e){
                             if(p.length==1){
                                 let span = p[0].getElementsByTagName('span');
                                 footer.removeChild(p[0]);
@@ -79,7 +79,7 @@ window.onload=function(){
                                 let set = item1[span[1].innerText-1].getElementsByTagName('i');
                                 set[span[2].innerText-1].classList.remove('red');
                             }
-                        })
+                        },true)
                     }
                 }
             })

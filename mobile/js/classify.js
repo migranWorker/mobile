@@ -2,7 +2,7 @@ window.onload = function(){
     let footer = document.querySelector('#footer');
     let div = footer.querySelectorAll('div');
     let list = document.querySelectorAll('.list');
-    let arr = ['index.html','classify.html','','','mine.html'];
+    let arr = ['index.html','classify.html','recommend.html','vip.html','mine.html'];
     for(let i=0;i<div.length;i++){
         div[i].addEventListener('touchend',function(){
             if(i==div.length-1){
